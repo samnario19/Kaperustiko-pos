@@ -1,0 +1,42 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/dashboard": [
+		"src/routes/+layout.ts"
+	],
+	"/delivery": [
+		"src/routes/+layout.ts"
+	],
+	"/inventory": [
+		"src/routes/+layout.ts"
+	],
+	"/kitchen-monitor": [
+		"src/routes/+layout.ts"
+	],
+	"/login": [
+		"src/routes/+layout.ts"
+	],
+	"/main-pos": [
+		"src/routes/+layout.ts"
+	],
+	"/register": [
+		"src/routes/+layout.ts"
+	],
+	"/return": [
+		"src/routes/+layout.ts"
+	],
+	"/sidebar": [
+		"src/routes/+layout.ts"
+	],
+	"/transaction": [
+		"src/routes/+layout.ts"
+	],
+	"/vouchers": [
+		"src/routes/+layout.ts"
+	],
+	"/waiter-monitor": [
+		"src/routes/+layout.ts"
+	]
+}
